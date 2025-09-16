@@ -53,13 +53,13 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-![487781498-054494d3-0c80-40ea-9513-481b77b8abd3](https://github.com/user-attachments/assets/acb155e2-0f4b-4138-800b-6cea7d642a43)
+![WhatsApp Image 2025-09-16 at 11 49 35_44d0f462](https://github.com/user-attachments/assets/e790f6bd-e5ee-4f0a-bbde-4e796b296181)
 
 
 ## OUTPUT:
-<img width="1920" height="1200" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/6ca26025-ff0e-4f9d-8053-23f938f67f5b" />
+<img width="1643" height="965" alt="dest" src="https://github.com/user-attachments/assets/e4768bdc-9ba5-412b-ab38-78e191054814" />
 
-<img width="1920" height="1200" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/0949aa89-c559-40e6-ae48-1098ca253e2d" />
+<img width="1685" height="919" alt="duster" src="https://github.com/user-attachments/assets/f9da8a1c-73c6-4169-af41-d2a2e26cf65c" />
 
 ## RESULT:
 Thus the relay is controlled using Arduino controller.
