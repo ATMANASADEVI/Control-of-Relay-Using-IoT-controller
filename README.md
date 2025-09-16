@@ -1,5 +1,6 @@
 ## Name:MANASA DEVI AT
 ## REG NO:212224110036
+## EXP NO:2 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -52,7 +53,7 @@ void loop() {
 }
 ```
 ## CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-09-10 at 16 51 22_870af1e5](https://github.com/user-attachments/assets/054494d3-0c80-40ea-9513-481b77b8abd3)
+![487781498-054494d3-0c80-40ea-9513-481b77b8abd3](https://github.com/user-attachments/assets/acb155e2-0f4b-4138-800b-6cea7d642a43)
 
 
 ## OUTPUT:
